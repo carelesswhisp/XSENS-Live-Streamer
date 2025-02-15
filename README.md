@@ -98,6 +98,4 @@ This project **does NOT modify or crack Xsens MVN software**. It is a standalone
 
 🔗 **[Itch.io Store Page](https://moliminous.itch.io/xsens)**  
 
----
 
-Let me know if you need any tweaks before publishing it! 🚀
