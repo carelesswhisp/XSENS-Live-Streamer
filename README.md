@@ -56,9 +56,9 @@ This plugin allows **Xsens MVN data to be streamed into Unity3D**.
 3. **Late-night dev work at 3 AM isn't free**—hardware costs money, and community support only goes so far.  
 4. …Also, **the RTX 5090 is going to be $2,000**, so, like…  
 
-**If you own a $4,000–$12,000 mocap suit and can't spare a small fee for a functional plugin, I have to ask: 🤔 really?**  
+**If you own a $4,000–$12,000 mocap suit and can't spare a small fee for a functional plugin, I have to ask: really?**  
 
-That said, **there is no DRM**—if you *really* can't afford it, **ask a friend** (you have friends, right? …Right? 😅)  
+That said, **there is no DRM**—if you *really* can't afford it, **ask a friend** (you have friends, right? …Right? )  
 
 ---
 
