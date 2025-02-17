@@ -1,6 +1,5 @@
 # XSENS-Live-Streamer
 A tool to stream from Xsens MVN to unity3d with the basic free license 
-Here's a draft for the GitHub page for the **Xsens Plugin**, formatted for a README.md file:  
 
 ---
 🚨 **Warning:** This product is in **active development/beta**. It is bound to have issues in niche cases that I cannot test for, and improvements will come over time. **Updates are not guaranteed** on any specific schedule. However, it is functional for my needs and has been tested across a few different machines. **All known glitches are shown in the demo video on Itch.io.**  
