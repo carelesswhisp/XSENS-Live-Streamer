@@ -1,5 +1,5 @@
 # XSENS-Live-Streamer
-A tool to scream from Xsens MVN to unity3d with the basic free license 
+A tool to stream from Xsens MVN to unity3d with the basic free license 
 Here's a draft for the GitHub page for the **Xsens Plugin**, formatted for a README.md file:  
 
 ---
