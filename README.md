@@ -8,7 +8,7 @@ Warning This product is in active development/beta. I’ll try to fix things as 
 🔗 **[Buy on Itch.io](https://moliminous.itch.io/xsens)**  
 
 ---
-[![YouTube](http://i.ytimg.com/vi/aqY8pZLgMJg/hqdefault.jpg)](https://www.youtube.com/watch?v=aqY8pZLgMJg)
+[![YouTube](http://i.ytimg.com/vi/aqY8pZLgMJg/hqdefault.jpg)](https://youtu.be/-5VMUv2dfF4?si=Mi1Uq2HUusE86g2Q)
 
 ## What Does This Plugin Do?
 
